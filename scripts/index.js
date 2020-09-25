@@ -1145,7 +1145,7 @@ function openModal(){
 }
 
 function message(){
-  window.alert("已经准备好了，可以寄给你，或者放在pigeon hole哈哈哈")
+  window.alert("Confirm Call，Make a Call")
   document
 }
 
